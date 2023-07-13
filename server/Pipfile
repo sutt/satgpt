@@ -12,6 +12,7 @@ psycopg2-binary = "*"
 flask-cors = "*"
 
 [dev-packages]
+qrcode = "*"
 
 [requires]
 python_version = "3.11"
